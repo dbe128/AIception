@@ -13,7 +13,7 @@ For training and evaluation the [Microsoft Cats vs. Dogs Dataset](https://www.mi
 - `model.py`: Python script defining the neural network architecture.
 - `Train.py`: Python script for training the model.
 - `Evaluate.py`: Python script for evaluating the trained model on a test set.
-- `best_model.pth`: Saved weights of the best-performing model.
+- `10_epoch_model_74.6.pth`: Saved weights of the best-performing model.
 - `README.md`: Project documentation.
 
 ## Dependencies
